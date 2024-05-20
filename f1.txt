@@ -1,2 +1,6 @@
-My name is vidya 
+My name is vidya
+a = 10
+b = 7
+print(a+b)
+print(a-b) 
 
